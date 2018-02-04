@@ -14,5 +14,5 @@
 
  - git push 送交至github
 
- - 團隊合作中, 需要加入其他人的話, setting -> collaborators 
+ - 團隊合作中, 需要加入其他人的話
 
