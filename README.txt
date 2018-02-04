@@ -9,3 +9,10 @@
  -git status  變成綠色  已加入追蹤 但是尚未送交
 
  -git commit -m "init commit"  送交檔案並給送交紀錄
+
+ -git pull 先更新後 後送交至github
+
+ -git push 送交至github
+
+ -團隊合作中, 需要加入其他人的話, setting -> collaborators 
+
