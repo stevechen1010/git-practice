@@ -6,6 +6,6 @@
  - git add . 把所有未追蹤的檔案加入追蹤
  - git add README.md 只把README.md 加入追蹤
 
- -git status  變成綠色  已加入追蹤 但是尚未送交
+ - git status  變成綠色  已加入追蹤 但是尚未送交
 
- -git commit -m "init commit"  送交檔案並給送交紀錄
+ - git commit -m "init commit"  送交檔案並給送交紀錄
